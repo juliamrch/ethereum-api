@@ -26,8 +26,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .and_then(get_nfts_for_owner);
 
     // Start the server on port 8080
-    info!("Server running on http://127.0.0.1:8080");
-    warp::serve(list_nfts_route).run(([127, 0, 0, 1], 8080)).await;
+    info!("Server running on http://0.0.0.0:8080");
+    warp::serve(list_nfts_route).run(([0, 0, 0, 0], 8080)).await;
 
     Ok(())
 }
