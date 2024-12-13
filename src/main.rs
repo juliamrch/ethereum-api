@@ -1,4 +1,4 @@
-use alchemy_api::alchemy::Alchemy;
+//use alchemy_api::alchemy::Alchemy;
 use std::env;
 use warp::Filter;
 use log::{info, error};
@@ -21,13 +21,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     env_logger::init();
     info!("Starting NFT API server...");
 
-    // Define the route for listing NFTs
+    // Route for serving the HTML interface
+    let html_route = warp::path::end()
+        .and(warp::fs::file("static/index.html"));
+
+    // Route for listing NFTs
     let list_nfts_route = warp::path!("nfts" / String)
         .and_then(get_nfts_for_owner);
 
+    // Combine routes
+    let routes = html_route.or(list_nfts_route);
+
     // Start the server on port 8080
     info!("Server running on http://0.0.0.0:8080");
-    warp::serve(list_nfts_route).run(([0, 0, 0, 0], 8080)).await;
+    warp::serve(routes).run(([0, 0, 0, 0], 8080)).await;
 
     Ok(())
 }
