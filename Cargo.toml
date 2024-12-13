@@ -1,17 +1,17 @@
 [package]
-name = "nft_api"  # Replace with your project name
+name = "nft_api" 
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-ethers = "2.0"  # For Ethereum interactions
-reqwest = { version = "0.12", features = ["json"] }  # Ensure the json feature is included
-tokio = { version = "1", features = ["full"] }  # For async runtime
-serde = { version = "1.0", features = ["derive"] }  # For serialization
-serde_json = "1.0"  # For JSON handling
-env_logger = "0.10"  # For logging
-log = "0.4"  # For logging
-dotenv = "0.15"  # For loading environment variables from a .env file
-alchemy-api = "0.1"  # Replace with the actual version of the Alchemy API crate
-warp = "0.3"  # For building the web server
+#ethers = "2.0"
+reqwest = { version = "0.12", features = ["json"] }  
+tokio = { version = "1", features = ["full"] } 
+serde = { version = "1.0", features = ["derive"] } 
+serde_json = "1.0"
+env_logger = "0.10"
+log = "0.4"
+dotenv = "0.15"
+alchemy-api = "0.1"
+warp = "0.3"
 

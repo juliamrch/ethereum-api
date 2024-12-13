@@ -1,0 +1,1171 @@
+{
+    "ownedNfts": [
+        {
+            "contract": {
+                "address": "0x3ad059e4a22931e3658e69c44f36ed561dd5df17"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000001167",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "Fall 2022: META-511",
+            "description": "This is your access token to META-511: NFTs and the Metaverse, a free MOOC by the University of Nicosia (UNIC) and the world's first university course delivered on-chain and in the metaverse.\n\nWith this token in your wallet, you can participate in the course in OM (6529's Open Metaverse), as well as join the course discussion in the UNIC Discord server.\n\nCourse Information: \nhttps://www.unic.ac.cy/openmetaverse/mooc-nfts-metaverse/\n\nOriginal artwork by 6529er",
+            "tokenUri": {
+                "gateway": "https://arweave.net/h7IfQQKCzs8uWryHYCWv_obj8pXgakU7jaWg6pEVie0",
+                "raw": "https://arweave.net/h7IfQQKCzs8uWryHYCWv_obj8pXgakU7jaWg6pEVie0"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/a84fb6d02ee09b4cebe333499b96f9c6",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/a84fb6d02ee09b4cebe333499b96f9c6",
+                    "raw": "https://arweave.net/dm4ohGlzQmUYZ8-NfQ85YAf7TshRn0rDWo1KC58zV48",
+                    "format": "jpeg",
+                    "bytes": 1677573
+                }
+            ],
+            "metadata": {
+                "image": "https://arweave.net/dm4ohGlzQmUYZ8-NfQ85YAf7TshRn0rDWo1KC58zV48",
+                "external_url": "https://www.unic.ac.cy/openmetaverse/mooc-nfts-metaverse/",
+                "image_details": {
+                    "format": "JPEG",
+                    "width": 5760,
+                    "sha256": "fe301f3f0cab010a4a67d507e6c4ef874a2ebd21f5669684663d56136de08719",
+                    "bytes": 1677573,
+                    "height": 5760
+                },
+                "image_url": "https://arweave.net/dm4ohGlzQmUYZ8-NfQ85YAf7TshRn0rDWo1KC58zV48",
+                "name": "Fall 2022: META-511",
+                "description": "This is your access token to META-511: NFTs and the Metaverse, a free MOOC by the University of Nicosia (UNIC) and the world's first university course delivered on-chain and in the metaverse.\n\nWith this token in your wallet, you can participate in the course in OM (6529's Open Metaverse), as well as join the course discussion in the UNIC Discord server.\n\nCourse Information: \nhttps://www.unic.ac.cy/openmetaverse/mooc-nfts-metaverse/\n\nOriginal artwork by 6529er",
+                "attributes": [
+                    {
+                        "value": "Yes",
+                        "trait_type": "Certificate Available"
+                    },
+                    {
+                        "value": "0.25 ETH",
+                        "trait_type": "Certificate Fee"
+                    },
+                    {
+                        "value": "Free",
+                        "trait_type": "Course Access"
+                    },
+                    {
+                        "value": "META-511",
+                        "trait_type": "Course Code"
+                    },
+                    {
+                        "value": "12 weeks",
+                        "trait_type": "Course Duration"
+                    },
+                    {
+                        "value": "December 23, 2022",
+                        "trait_type": "Course End Date"
+                    },
+                    {
+                        "value": "Metaverse",
+                        "trait_type": "Course Format"
+                    },
+                    {
+                        "value": "NFTs and the Metaverse",
+                        "trait_type": "Course Name"
+                    },
+                    {
+                        "value": "October 3, 2022",
+                        "trait_type": "Course Start Date"
+                    },
+                    {
+                        "value": "OM",
+                        "trait_type": "Course Venue"
+                    },
+                    {
+                        "value": "Department of Digital Innovation",
+                        "trait_type": "Department"
+                    },
+                    {
+                        "value": "Professor George Giaglis",
+                        "trait_type": "Instructor 1"
+                    },
+                    {
+                        "value": "Punk 6529",
+                        "trait_type": "Instructor 2"
+                    },
+                    {
+                        "value": "Mint an NFT",
+                        "trait_type": "Prerequisites"
+                    },
+                    {
+                        "value": "University",
+                        "trait_type": "Provider Type"
+                    },
+                    {
+                        "value": "School of Business",
+                        "trait_type": "School"
+                    },
+                    {
+                        "value": "Fall",
+                        "trait_type": "Semester"
+                    },
+                    {
+                        "value": "Metaverse Genesis",
+                        "trait_type": "Special"
+                    },
+                    {
+                        "value": "6529er",
+                        "trait_type": "Token Artist"
+                    },
+                    {
+                        "value": "University of Nicosia",
+                        "trait_type": "University"
+                    },
+                    {
+                        "value": "2022",
+                        "trait_type": "Year"
+                    },
+                    {
+                        "display_type": "number",
+                        "value": 1,
+                        "trait_type": "Number"
+                    }
+                ],
+                "created_by": "UNIC"
+            },
+            "timeLastUpdated": "2024-07-23T21:14:38.809Z",
+            "contractMetadata": {
+                "name": "UNIC Access",
+                "symbol": "UNIC",
+                "tokenType": "ERC721",
+                "contractDeployer": "0x019694114e16a11457a422c331998c7a69979a8e",
+                "deployedBlockNumber": 15283131,
+                "openSea": {
+                    "floorPrice": 0.0019,
+                    "collectionName": "UNIC Access",
+                    "collectionSlug": "unicaccess",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/09eab2e36ddb41635b06502072577d99.jpg?w=500&auto=format",
+                    "description": "Access tokens to University of Nicosia metaverse courses",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/3d4d0c923a1f2f1807c2435552961750.jpg?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-04T07:15:38.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0x4e2d9546ccfec5b126706e02afd329ef53b3ae01"
+            },
+            "id": {
+                "tokenId": "0x01",
+                "tokenMetadata": {
+                    "tokenType": "ERC1155"
+                }
+            },
+            "balance": "1",
+            "title": "PDF: What is an NFT?",
+            "description": "This NFT contains the course presentation (PDF) for Week 1 of META511 (Fall 2022).\n \nThe topic of this session is: Introduction to NFTs.\n \nPDFs may not be displayed correctly by all browsers.\n \nThe direct link can be found at: \nhttps://arweave.net/RQSe3S0q14ao_UC78JOJDr9ZkwejnT0yXT6TCdlsRgo",
+            "tokenUri": {
+                "gateway": "https://arweave.net/9QghNew4jYMy-u4BLoBxridCHhZBKcSitgYRV79Kluk",
+                "raw": "https://arweave.net/9QghNew4jYMy-u4BLoBxridCHhZBKcSitgYRV79Kluk"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/f78fee20f22fd0f999a3a519678fefc5",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/f78fee20f22fd0f999a3a519678fefc5",
+                    "raw": "https://arweave.net/3yAYCt9Al9zyuFfwHr45qAvvHh7ULQkOuPgV-DYx2Jo",
+                    "format": "jpeg",
+                    "bytes": 70927
+                }
+            ],
+            "metadata": {
+                "image": "https://arweave.net/3yAYCt9Al9zyuFfwHr45qAvvHh7ULQkOuPgV-DYx2Jo",
+                "external_url": "https://arweave.net/RQSe3S0q14ao_UC78JOJDr9ZkwejnT0yXT6TCdlsRgo",
+                "animation_url": "https://arweave.net/RQSe3S0q14ao_UC78JOJDr9ZkwejnT0yXT6TCdlsRgo",
+                "image_details": {
+                    "format": "JPG",
+                    "width": 1920,
+                    "sha256": "abfd79872680a7b12ab4a2edcaf035969c14cb3c554cd67d16b80528901a4540",
+                    "bytes": 70927,
+                    "height": 1080
+                },
+                "image_url": "https://arweave.net/3yAYCt9Al9zyuFfwHr45qAvvHh7ULQkOuPgV-DYx2Jo",
+                "animation_details": {
+                    "format": "PDF",
+                    "sha256": "90c48083de5b495a2726fcaf03361447b9844b99e781e1e7a92f52b267ea6c6b",
+                    "bytes": 5226613
+                },
+                "name": "PDF: What is an NFT?",
+                "description": "This NFT contains the course presentation (PDF) for Week 1 of META511 (Fall 2022).\n \nThe topic of this session is: Introduction to NFTs.\n \nPDFs may not be displayed correctly by all browsers.\n \nThe direct link can be found at: \nhttps://arweave.net/RQSe3S0q14ao_UC78JOJDr9ZkwejnT0yXT6TCdlsRgo",
+                "attributes": [
+                    {
+                        "value": "School of Business",
+                        "trait_type": "School"
+                    },
+                    {
+                        "value": "Department of Digital Innovation",
+                        "trait_type": "Department"
+                    },
+                    {
+                        "value": "Fall",
+                        "trait_type": "Semester"
+                    },
+                    {
+                        "value": "2022-23",
+                        "trait_type": "Academic Year"
+                    },
+                    {
+                        "value": "NFTs and the Metaverse",
+                        "trait_type": "Course Name"
+                    },
+                    {
+                        "value": "META511",
+                        "trait_type": "Course Code"
+                    },
+                    {
+                        "value": "Professor George Giaglis",
+                        "trait_type": "Instructor 1"
+                    },
+                    {
+                        "value": "Punk 6529",
+                        "trait_type": "Instructor 2"
+                    },
+                    {
+                        "display_type": "number",
+                        "value": "1",
+                        "trait_type": "Course Week",
+                        "max_value": "12"
+                    },
+                    {
+                        "value": "University of Nicosia",
+                        "trait_type": "University"
+                    },
+                    {
+                        "value": "None",
+                        "trait_type": "Guest/Panelist 1"
+                    },
+                    {
+                        "value": "None",
+                        "trait_type": "Guest/Panelist 2"
+                    },
+                    {
+                        "value": "None",
+                        "trait_type": "Guest/Panelist 3"
+                    },
+                    {
+                        "value": "None",
+                        "trait_type": "Guest/Panelist 4"
+                    },
+                    {
+                        "value": "None",
+                        "trait_type": "Guest/Panelist 5"
+                    },
+                    {
+                        "value": "Course Presentation",
+                        "trait_type": "Asset Type"
+                    },
+                    {
+                        "value": "PDF",
+                        "trait_type": "Asset Format"
+                    },
+                    {
+                        "value": "English",
+                        "trait_type": "Language"
+                    },
+                    {
+                        "value": "07 October 2022",
+                        "trait_type": "Date"
+                    }
+                ],
+                "created_by": "UNICcoursedeployer",
+                "animation": "https://arweave.net/RQSe3S0q14ao_UC78JOJDr9ZkwejnT0yXT6TCdlsRgo"
+            },
+            "timeLastUpdated": "2024-12-13T20:13:09.744Z",
+            "contractMetadata": {
+                "tokenType": "ERC1155",
+                "contractDeployer": "0x7a5b597fbd2f838c23caa693dc349b662189a242",
+                "deployedBlockNumber": 15680902,
+                "openSea": {
+                    "floorPrice": 0.0025,
+                    "collectionName": "UNIC META511MC Course Materials - Fall 2022",
+                    "collectionSlug": "meta511mc-fall2022",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/1aea19c54a8018a1c0dfa35f197fd06b.png?w=500&auto=format",
+                    "description": "Official University of Nicosia (UNIC) course material.",
+                    "discordUrl": "https://discord.gg/joinUNIC",
+                    "lastIngestedAt": "2024-12-07T01:45:00.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0x55743c104382c66199c7c531bea63a6bcda04b86"
+            },
+            "id": {
+                "tokenId": "0x00000000000000000000000000000000000000000000000000000000000000a8",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "Poppy",
+            "description": "A special edition Fini that responds to your activity on Lens Protocol, minted live in Istanbul 🌿.",
+            "tokenUri": {
+                "gateway": "https://api-public.finiliar.com/lens-fini-london/168",
+                "raw": "https://api-public.finiliar.com/lens-fini-london/168"
+            },
+            "media": [
+                {
+                    "gateway": "https://ipfs.io/ipfs/bafybeihonguppv7ixmigogkwjfrx73nfr2acey32wxobqkxfp6if5tmfoa/supersad.mp4",
+                    "raw": "https://cdn.finiliar.com/ipfs/bafybeihonguppv7ixmigogkwjfrx73nfr2acey32wxobqkxfp6if5tmfoa/supersad.mp4"
+                }
+            ],
+            "metadata": {
+                "name": "Poppy",
+                "description": "A special edition Fini that responds to your activity on Lens Protocol, minted live in Istanbul 🌿.",
+                "image": "https://cdn.finiliar.com/ipfs/bafybeihonguppv7ixmigogkwjfrx73nfr2acey32wxobqkxfp6if5tmfoa/supersad.mp4",
+                "attributes": [
+                    {
+                        "value": "Lens",
+                        "trait_type": "Family"
+                    },
+                    {
+                        "value": "Poppy",
+                        "trait_type": "Name"
+                    },
+                    {
+                        "value": "Istanbul",
+                        "trait_type": "City"
+                    }
+                ],
+                "animation_url": "https://cdn.finiliar.com/ipfs/bafybeihonguppv7ixmigogkwjfrx73nfr2acey32wxobqkxfp6if5tmfoa/supersad.mp4"
+            },
+            "timeLastUpdated": "2024-12-13T21:25:39.474Z",
+            "contractMetadata": {
+                "name": "LensFiniLondon",
+                "symbol": "LFL",
+                "tokenType": "ERC721",
+                "contractDeployer": "0x8bdd0535d3971c3ab09c7f1e35266e047fe972ce",
+                "deployedBlockNumber": 18343465,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "Lens Fini",
+                    "collectionSlug": "lensfini",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/s/raw/files/5b7c336d4fcc6f54369b1dca24d8c252.png?w=500&auto=format",
+                    "description": "Lens Finis are special edition Finis that respond to your activity on Lens Protocol, minted by the Lens community at events around the world ????Download the Fini app at https://app.fini.world/ and visit https://fini.world/ to discover more.",
+                    "bannerImageUrl": "https://i.seadn.io/s/raw/files/e1f7e61d3ca53b197b89d2e519b2df0a.png?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-11T19:59:44.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85"
+            },
+            "id": {
+                "tokenId": "0x418a9ee2facd34902e2b9d0494959faa5e96f2a0966e38f968a3549bbe6d6345",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "hysterik.eth",
+            "description": "hysterik.eth, an ENS name.",
+            "tokenUri": {
+                "gateway": "https://metadata.ens.domains/mainnet/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/0x418a9ee2facd34902e2b9d0494959faa5e96f2a0966e38f968a3549bbe6d6345",
+                "raw": "https://metadata.ens.domains/mainnet/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/0x418a9ee2facd34902e2b9d0494959faa5e96f2a0966e38f968a3549bbe6d6345"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/1ee93bffeedd27b05e70e460eaabe3d4",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/1ee93bffeedd27b05e70e460eaabe3d4",
+                    "raw": "https://metadata.ens.domains/mainnet/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/0x418a9ee2facd34902e2b9d0494959faa5e96f2a0966e38f968a3549bbe6d6345/image",
+                    "format": "svg+xml",
+                    "bytes": 0
+                }
+            ],
+            "metadata": {
+                "background_image": "https://metadata.ens.domains/mainnet/avatar/hysterik.eth",
+                "image": "https://metadata.ens.domains/mainnet/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/0x418a9ee2facd34902e2b9d0494959faa5e96f2a0966e38f968a3549bbe6d6345/image",
+                "last_request_date": 1734123539629,
+                "is_normalized": true,
+                "image_url": "https://metadata.ens.domains/mainnet/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/0x418a9ee2facd34902e2b9d0494959faa5e96f2a0966e38f968a3549bbe6d6345/image",
+                "name": "hysterik.eth",
+                "description": "hysterik.eth, an ENS name.",
+                "attributes": [
+                    {
+                        "display_type": "date",
+                        "value": 1687009511000,
+                        "trait_type": "Created Date"
+                    },
+                    {
+                        "display_type": "number",
+                        "value": 8,
+                        "trait_type": "Length"
+                    },
+                    {
+                        "display_type": "number",
+                        "value": 8,
+                        "trait_type": "Segment Length"
+                    },
+                    {
+                        "display_type": "string",
+                        "value": "letter",
+                        "trait_type": "Character Set"
+                    },
+                    {
+                        "display_type": "date",
+                        "value": 1687009511000,
+                        "trait_type": "Registration Date"
+                    },
+                    {
+                        "display_type": "date",
+                        "value": 1781617511000,
+                        "trait_type": "Expiration Date"
+                    }
+                ],
+                "version": 0,
+                "url": "https://app.ens.domains/name/hysterik.eth"
+            },
+            "timeLastUpdated": "2024-12-13T20:58:59.950Z",
+            "contractMetadata": {
+                "tokenType": "ERC721",
+                "contractDeployer": "0x4fe4e666be5752f1fdd210f4ab5de2cc26e3e0e8",
+                "deployedBlockNumber": 9380410,
+                "openSea": {
+                    "floorPrice": 2.99999E-4,
+                    "collectionName": "ENS: Ethereum Name Service",
+                    "collectionSlug": "ens",
+                    "safelistRequestStatus": "verified",
+                    "imageUrl": "https://i.seadn.io/gae/0cOqWoYA7xL9CkUjGlxsjreSYBdrUBE0c6EO1COG4XE8UeP-Z30ckqUNiL872zHQHQU5MUNMNhfDpyXIP17hRSC5HQ?w=500&auto=format",
+                    "description": "Ethereum Name Service (ENS) domains are secure domain names for the decentralized world. ENS domains provide a way for users to map human readable names to blockchain and non-blockchain resources, like Ethereum addresses, IPFS hashes, or website URLs. ENS domains can be bought and sold on secondary markets.",
+                    "twitterUsername": "ensdomains",
+                    "bannerImageUrl": "https://i.seadn.io/s/primary-drops/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/3072:about:media:252af124-c94f-43a8-b81a-ab886564116f.png?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-13T19:43:46.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0x7e56476d29bc175fa6d855b0ea6ec707604feb07"
+            },
+            "id": {
+                "tokenId": "0x00000000000000000000000000000000000000000000000000000000000001d7",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "Lonely Guy #471",
+            "description": "I am lonely but not alone.",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmPYD1vR1EYrt549btE1gxsVfYNPtd5JoysQVXFsCekBM9/471.json",
+                "raw": "https://ipfs.io/ipfs/QmPYD1vR1EYrt549btE1gxsVfYNPtd5JoysQVXFsCekBM9/471.json"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/455a829bc5ce94d17d2984d116950abf",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/455a829bc5ce94d17d2984d116950abf",
+                    "raw": "http://ipfs.io/ipfs/QmdvWss6uDBtPWnSYc9aHAz5QXDbcg4Xgk58gRH1QFcFSS/471.png",
+                    "format": "png",
+                    "bytes": 131818
+                }
+            ],
+            "metadata": {
+                "name": "Lonely Guy #471",
+                "image": "http://ipfs.io/ipfs/QmdvWss6uDBtPWnSYc9aHAz5QXDbcg4Xgk58gRH1QFcFSS/471.png",
+                "description": "I am lonely but not alone.",
+                "attributes": [
+                    {
+                        "value": "Mint",
+                        "trait_type": "Background"
+                    },
+                    {
+                        "value": "Blue Mutant",
+                        "trait_type": "Skeleton"
+                    },
+                    {
+                        "value": "Yellow Aura",
+                        "trait_type": "Flame"
+                    },
+                    {
+                        "value": "Styled Yellow",
+                        "trait_type": "Hair"
+                    },
+                    {
+                        "value": "KingShit",
+                        "trait_type": "Hair Accessories"
+                    },
+                    {
+                        "value": "Satchel",
+                        "trait_type": "Back Accessories"
+                    },
+                    {
+                        "value": "Toothpick",
+                        "trait_type": "Mouth"
+                    },
+                    {
+                        "value": "Sharingan Red Eyes",
+                        "trait_type": "Eyes"
+                    }
+                ]
+            },
+            "timeLastUpdated": "2024-07-24T13:02:39.264Z",
+            "contractMetadata": {
+                "name": "Lonely Guys",
+                "symbol": "Lonely",
+                "totalSupply": "2523",
+                "tokenType": "ERC721",
+                "contractDeployer": "0x6c5131b840ad32b0a953825ec79bd1031a7ec662",
+                "deployedBlockNumber": 14930690,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "Lonely Guys NFT",
+                    "collectionSlug": "lonely-guys-nft",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/cf1a5535ab1eed026c1e4654356e8a65.png?w=500&auto=format",
+                    "description": "\"I am lonely but not alone\"",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/f18cadc4116e43824db847a7198dc933.png?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-08T03:07:16.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0x7e56476d29bc175fa6d855b0ea6ec707604feb07"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000201",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "Lonely Guy #513",
+            "description": "I am lonely but not alone.",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmPYD1vR1EYrt549btE1gxsVfYNPtd5JoysQVXFsCekBM9/513.json",
+                "raw": "https://ipfs.io/ipfs/QmPYD1vR1EYrt549btE1gxsVfYNPtd5JoysQVXFsCekBM9/513.json"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/25bde19c4944aa9badd04b19f2a3b1b3",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/25bde19c4944aa9badd04b19f2a3b1b3",
+                    "raw": "http://ipfs.io/ipfs/QmdvWss6uDBtPWnSYc9aHAz5QXDbcg4Xgk58gRH1QFcFSS/513.png",
+                    "format": "png",
+                    "bytes": 359231
+                }
+            ],
+            "metadata": {
+                "name": "Lonely Guy #513",
+                "image": "http://ipfs.io/ipfs/QmdvWss6uDBtPWnSYc9aHAz5QXDbcg4Xgk58gRH1QFcFSS/513.png",
+                "description": "I am lonely but not alone.",
+                "attributes": [
+                    {
+                        "value": "City Graffiti",
+                        "trait_type": "Background"
+                    },
+                    {
+                        "value": "Purple Mutant",
+                        "trait_type": "Skeleton"
+                    },
+                    {
+                        "value": "Cyan Aura",
+                        "trait_type": "Flame"
+                    },
+                    {
+                        "value": "Pink Dreads",
+                        "trait_type": "Hair"
+                    },
+                    {
+                        "value": "DEDs Club Hat",
+                        "trait_type": "Hair Accessories"
+                    },
+                    {
+                        "value": "Holster",
+                        "trait_type": "Back Accessories"
+                    },
+                    {
+                        "value": "None",
+                        "trait_type": "Mouth"
+                    },
+                    {
+                        "value": "Side Eyes Military",
+                        "trait_type": "Eyes"
+                    }
+                ]
+            },
+            "timeLastUpdated": "2024-07-24T15:10:39.072Z",
+            "contractMetadata": {
+                "name": "Lonely Guys",
+                "symbol": "Lonely",
+                "totalSupply": "2523",
+                "tokenType": "ERC721",
+                "contractDeployer": "0x6c5131b840ad32b0a953825ec79bd1031a7ec662",
+                "deployedBlockNumber": 14930690,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "Lonely Guys NFT",
+                    "collectionSlug": "lonely-guys-nft",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/cf1a5535ab1eed026c1e4654356e8a65.png?w=500&auto=format",
+                    "description": "\"I am lonely but not alone\"",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/f18cadc4116e43824db847a7198dc933.png?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-08T03:07:16.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xb1c37fe137d6e76ba182f1f3f1e671c75a9fbd4b"
+            },
+            "id": {
+                "tokenId": "0x00000000000000000000000000000000000000000000000000000000000000ab",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "MINI PASTRY",
+            "description": "A Pastry",
+            "tokenUri": {
+                "gateway": "",
+                "raw": "data:application/json;base64,eyAiaW1hZ2UiOiAiaXBmczovL1FtU0xTOG5HRFc4endWcnhpWGd5Ym04cE1IamRoYXVocDREOXRpcUJ5aWFNaW4vIiwgImF0dHJpYnV0ZXMiOiBbIHsidHJhaXRfdHlwZSI6ICJCUkVBRCIsICJ2YWx1ZSI6ICJNSU5JIn0sIHsidHJhaXRfdHlwZSI6ICJQQVNUUlkiLCAidmFsdWUiOiAiNy1EQVkifV0sICJkZXNjcmlwdGlvbiI6ICJBIFBhc3RyeSIsICJleHRlcm5hbF91cmwiOiJodHRwczovL3Bhc3RyeS54eXovIiwgIm5hbWUiOiAiTUlOSSBQQVNUUlkifQ=="
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/0a59a3c02ae9bff85b72d416a30a7cc0",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/0a59a3c02ae9bff85b72d416a30a7cc0",
+                    "raw": "ipfs://QmSLS8nGDW8zwVrxiXgybm8pMHjdhauhp4D9tiqByiaMin/",
+                    "format": "svg+xml",
+                    "bytes": 43852
+                }
+            ],
+            "metadata": {
+                "name": "MINI PASTRY",
+                "image": "ipfs://QmSLS8nGDW8zwVrxiXgybm8pMHjdhauhp4D9tiqByiaMin/",
+                "description": "A Pastry",
+                "attributes": [
+                    {
+                        "value": "MINI",
+                        "trait_type": "BREAD"
+                    },
+                    {
+                        "value": "7-DAY",
+                        "trait_type": "PASTRY"
+                    }
+                ],
+                "external_url": "https://pastry.xyz/"
+            },
+            "timeLastUpdated": "2023-03-31T14:44:03.252Z",
+            "contractMetadata": {
+                "name": "MINI PASTRY",
+                "symbol": "UDT",
+                "totalSupply": "192",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xa5e28b3096ccc853e8b9610bf32803fe205fbb65",
+                "deployedBlockNumber": 14364058,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "MINI PASTRY",
+                    "collectionSlug": "mini-pastry",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gae/RUa1kYgogsH64udQemh0ZgVNUp_X6mUybYdj9x5zQokstXa3vxloVUG-xY64nv8387q6ca5Z3go0YBE4g8Xs5WWJX6ZSR6L6Gwrh?w=500&auto=format",
+                    "description": "The \"MINI PASTRY\" is a trial membership to the Bakery, a community of researchers powered by web3. Holders can use it to access special research pages on the site, gain access to our special discord, earn rewards for their contribution, set up a DAO profile, and much more!\n\nDo you have what it takes? Get started now with the MINI PASTRY",
+                    "twitterUsername": "theBakeryDAO",
+                    "discordUrl": "https://discord.gg/39y5cze3Nj",
+                    "bannerImageUrl": "https://i.seadn.io/gae/3UwG1wbD6xuOgPQ4K1_95-P_CTNnOB7F4R_lgiVkcuo-LfLjyfgNMnWFZeCeLgkXkzSrF76wpuW97FxM7lMi-0vTc0kpDXx1CVvv?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T01:16:47.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f67",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/7bf870648f45eec764cb041d3a5cd3c3",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/7bf870648f45eec764cb041d3a5cd3c3",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-12-13T21:52:39.083Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f68",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/7535ff5d9ae6c47077ddffbbe524ee16",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/7535ff5d9ae6c47077ddffbbe524ee16",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-07-23T21:34:39.308Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f69",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/6c74a9693a5483f96dfbc7be0e7ef08c",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/6c74a9693a5483f96dfbc7be0e7ef08c",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-07-23T21:38:39.847Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f6a",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/5b258f82f948900a76841a410bf16da8",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/5b258f82f948900a76841a410bf16da8",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-07-24T12:54:39.130Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f6b",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/48e5f87684d3badcf1c4757848486cbf",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/48e5f87684d3badcf1c4757848486cbf",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-07-24T15:10:39.588Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f6c",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/4c9c7c65ce2151506d0d9aa6ef053ca9",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/4c9c7c65ce2151506d0d9aa6ef053ca9",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-07-23T21:42:41.449Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f6d",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/b3f6a1c18ccf49ff1d51a7165148ed20",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/b3f6a1c18ccf49ff1d51a7165148ed20",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-12-13T21:28:39.217Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f6e",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/efe69626faa0b94df2f5f8a7d5424e4c",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/efe69626faa0b94df2f5f8a7d5424e4c",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-12-13T21:54:39.153Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xd01e7503ee7fc7e79bdac95bd6406007ad3221c8"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000f6f",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://ipfs.io/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ",
+                "raw": "https://gateway.pinata.cloud/ipfs/QmeCMu9HcxqMFsZLWJmVYGdibrctRupAWutUY3AUvGB7QQ"
+            },
+            "media": [
+                {
+                    "gateway": "https://nft-cdn.alchemy.com/eth-mainnet/b7bcc1c42cbb71b5d4e9b538fa392a07",
+                    "thumbnail": "https://res.cloudinary.com/alchemyapi/image/upload/thumbnailv2/eth-mainnet/b7bcc1c42cbb71b5d4e9b538fa392a07",
+                    "raw": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX",
+                    "format": "gif",
+                    "bytes": 7847178
+                }
+            ],
+            "metadata": {
+                "image": "https://gateway.pinata.cloud/ipfs/QmeW2q2dVKGPC9mrA6oHDB6xe1Bs4HNZ6n9M4UxJsDtPeX"
+            },
+            "timeLastUpdated": "2024-07-23T21:48:39.159Z",
+            "contractMetadata": {
+                "name": "DOOMEDWTF",
+                "symbol": "DOOMEDWTF",
+                "totalSupply": "4261",
+                "tokenType": "ERC721",
+                "contractDeployer": "0xad18a4078d4fce86456470055b483846a39a531b",
+                "deployedBlockNumber": 14928753,
+                "openSea": {
+                    "floorPrice": 0.0,
+                    "collectionName": "DOOMED.wtf",
+                    "collectionSlug": "doomedwtf",
+                    "safelistRequestStatus": "not_requested",
+                    "imageUrl": "https://i.seadn.io/gcs/files/f61a080233bf73bb7f0a6ffe81345894.gif?w=500&auto=format",
+                    "description": "W҉e҉ ҉a҉r҉e҉ ҉a҉l҉l҉ ҉d҉o҉o҉m҉e҉d҉.҉ ҉ ҉4҉4҉4҉4҉.҉    0.0025 ETH\n",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/d63fd519faa95a9d6bc47f61fbdb34bb.gif?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-03T07:49:22.000Z"
+                }
+            }
+        },
+        {
+            "contract": {
+                "address": "0xfcaecb01d2e095b2cf3e5293afd83bea5e9ff259"
+            },
+            "id": {
+                "tokenId": "0x0000000000000000000000000000000000000000000000000000000000000fd1",
+                "tokenMetadata": {
+                    "tokenType": "ERC721"
+                }
+            },
+            "balance": "1",
+            "title": "",
+            "description": "",
+            "tokenUri": {
+                "gateway": "https://suckersnft.io/api/nft/4049.json",
+                "raw": "https://suckersnft.io/api/nft/4049.json"
+            },
+            "media": [
+                {
+                    "gateway": "",
+                    "raw": ""
+                }
+            ],
+            "metadata": {},
+            "timeLastUpdated": "2024-12-13T21:49:57.081Z",
+            "contractMetadata": {
+                "name": "Suckers",
+                "symbol": "SUCK",
+                "totalSupply": "8888",
+                "tokenType": "ERC721",
+                "contractDeployer": "0x7600347a149f44ba8f5117592c09dd9417314da0",
+                "deployedBlockNumber": 14934510,
+                "openSea": {
+                    "floorPrice": 0.001,
+                    "collectionName": "We Are Suckers",
+                    "collectionSlug": "wearesuckers",
+                    "safelistRequestStatus": "verified",
+                    "imageUrl": "https://i.seadn.io/gcs/files/5a0fad772eab23cb221e7c5ba2e56bd9.gif?w=500&auto=format",
+                    "description": "Warning: These NFTs suck!\n\nSupply burnt: 3794 | Current supply: 5094\n\nWe are Suckers NFT was created as a Movement to bring people together and shed light on the Toxicity of this space.\n\nBy acknowledging first that #wesuck sometimes, #wesave each other by building a community-driven with positive vibes. \n\nBenefits include 100% Community-Controlled Wallet, Staking / $UCK Token, Alpha, and WL Ops. \n\nOur 2nd collection; the Saviors, receive 3x more $UCK tokens than Suckers and can be found here: https://opensea.io/collection/wearesaviors\n\nVitriol collection: https://opensea.io/collection/v-i-t-r-i-o-l\n\nTwitter: [@WeAreSuckersNFT](https://twitter.com/WeareSuckersnft)",
+                    "twitterUsername": "WeareSuckersnft",
+                    "bannerImageUrl": "https://i.seadn.io/gcs/files/09de6ed1f92d5ec743aac183e086a9ef.png?w=500&auto=format",
+                    "lastIngestedAt": "2024-12-04T00:50:14.000Z"
+                }
+            }
+        }
+    ],
+    "totalCount": 17,
+    "blockHash": "0x1aa48585cccbbc513840276167f6bfd7308fa379cc04de3909d570ee7df83e2a"
+}

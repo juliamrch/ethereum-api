@@ -23,7 +23,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     // Define the route for listing NFTs
     let list_nfts_route = warp::path!("nfts" / String)
-        .and_then(getNFTsForOwner);
+        .and_then(get_nfts_for_owner);
 
     // Start the server on port 8080
     info!("Server running on http://127.0.0.1:8080");
@@ -32,7 +32,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 
-async fn getNFTsForOwner(owner: String) -> Result<impl warp::Reply, warp::Rejection> {
+async fn get_nfts_for_owner(owner: String) -> Result<impl warp::Reply, warp::Rejection> {
     info!("Received request for address: {}", owner);
 
     // Get your Alchemy API key from environment variables
@@ -63,26 +63,48 @@ async fn list_nfts(api_key: &String, owner: &String) -> Result<Vec<NFT>, Box<dyn
     println!("Response Body: {}", body); // Log the response body
 
     // Deserialize the JSON response
-    let res: AlchemyResponse = serde_json::from_str(&body)?;
+    let res: AlchemyResponse = serde_json::from_str(&body).map_err(|e| {
+        error!("Failed to deserialize response: {:?}", e);
+        e
+    })?;
     
     // Map the response to a Vec<NFT>
-    let nfts = res.nfts.into_iter().map(|nft| NFT {
-        id: nft.id,
-        name: nft.name,
+    let nfts = res.ownedNfts.into_iter().map(|nft| NFT {
+        id: nft.id.tokenId,
+        name: nft.title,
     }).collect();
 
     Ok(nfts)
 }
 
-// Define a struct for the API response (adjust fields as necessary)
+// Struct for the API response
 #[derive(Deserialize)]
 struct AlchemyResponse {
-    nfts: Vec<NFTData>,
-    totalCount: Option<u32>, // Optional field for total count
+    ownedNfts: Vec<NFTData>,
+    total_count: Option<u32>,
 }
 
 #[derive(Deserialize)]
 struct NFTData {
-    id: String,
-    name: String,
+    contract: ContractData,
+    id: NFTId,
+    balance: String,
+    title: String,
+    description: String,
+}
+
+#[derive(Deserialize)]
+struct ContractData {
+    address: String,
+}
+
+#[derive(Deserialize)]
+struct NFTId {
+    tokenId: String,
+    tokenMetadata: TokenMetadata,
+}
+
+#[derive(Deserialize)]
+struct TokenMetadata {
+    tokenType: String,
 }
